@@ -8,7 +8,7 @@ function lowerCaseDrivers(drivers){
 
 function nameToAttributes(firstName, lastName){
   
-}
+
 
 
 let students = [harryPotter, ronWeasley, hermioneGranger, ginevraWeasley];
@@ -16,5 +16,5 @@ let patroni = students.map( student => student.namePatronus() )
 
 
 
-
+}
 
